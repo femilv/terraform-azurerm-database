@@ -58,7 +58,7 @@ variable "tags" {
   type        = "map"
 
   default = {
-    tag1 = "Network"
-    tag2 = "Subnet"
+    tag1 = "Network123"
+    tag2 = "Subnet123"
   }
 }
